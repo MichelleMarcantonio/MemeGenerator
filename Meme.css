@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+}
+
+h4 {
+    position: relative;
+    text-align: center;
+}
+
+
+element.style {
+    left: 2px;
+    top: 2px;
+    width: 362px;
+    height: 61px;
+}
+
